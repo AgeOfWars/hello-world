@@ -1,5 +1,6 @@
 #ifndef SPLAYTREE_H
 #define SPLAYTREE_H
+#define 
 
 template<typename T> class SplayTree {
 private:
